@@ -8,7 +8,7 @@
   export default{
     data () {
       return {
-        msg: 'this is a user by 安静的猫🐈'
+        msg: 'this is a user by 🐈'
       }
     },
     methods: {
